@@ -37,3 +37,8 @@ MarketGenius 是一個AI驅動的多平台行銷內容生成系統，專為台�
 4. 運行應用
    ```bash
    python -m marketgenius.main
+
+### 模擬Demo
+
+1.內容生成
+https://github.com/user-attachments/assets/8645767b-5f7f-4080-9f21-87581cbd0ac1
