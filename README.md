@@ -41,4 +41,6 @@ MarketGenius 是一個AI驅動的多平台行銷內容生成系統，專為台�
 ### 模擬Demo
 
 1.內容生成
-<iframe width="1038" height="566" src="https://www.youtube.com/embed/18bRwR1fACc" title="MarketGenius Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/e36e7ffa-6757-47b1-b9fc-b5ccadc344de
+
+
