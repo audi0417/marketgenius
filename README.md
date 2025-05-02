@@ -1,4 +1,4 @@
-# MarketGenius(實驗階段)
+# MarketGenius(中小企業的智慧行銷助理)
 
 MarketGenius 是一個AI驅動的多平台行銷內容生成系統，專為台灣中小企業設計。
 
